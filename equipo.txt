@@ -1,1 +1,2 @@
 Línea inicial del equipo
+JOSE = HOLA SOY JOSE ATONIO MONTERROSAS SOLIS
